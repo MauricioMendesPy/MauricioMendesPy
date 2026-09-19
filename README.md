@@ -1,22 +1,70 @@
-## Oi, Mauricio aqui!!!!
+# Olá! Eu sou Mauricio Mendes 👋
 
+## Analista de Datacenter III | Observabilidade | Zabbix | Grafana | Python | Automação
 
-- 👨🏻‍💻Um desenvolvedor **Python**
-- 🖥Amante da Tecnologia.
-- Conhecimentos em Bots de &nbsp;<img width=25 height=25 src="https://www.svgrepo.com/show/271091/telegram.svg" />&nbsp;
-- Experiência em automação no Zabbix
-- Atualmente estou focando em:
-<div display = "inline">
-&nbsp;&nbsp;<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img with=40 height=40 src=https://cdn.worldvectorlogo.com/logos/zabbix-1.svg />&nbsp;&nbsp;
-</div>
+Profissional de tecnologia com mais de 13 anos de experiência em operações e infraestrutura de telecomunicações.
 
-##
+Atualmente atuo como **Analista de Datacenter III**, desenvolvendo soluções de observabilidade, automação, dashboards e inteligência artificial aplicadas ao ambiente operacional.
 
-### Você também pode me encontrar no meu Linkedin
-<a href= "https://www.linkedin.com/in/mauricio-mendes-12173697">
-    <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Minha experiência combina conhecimento de infraestrutura com desenvolvimento de soluções utilizando Python, Zabbix, Grafana e integrações por API.
 
-## Confere ai oque eu desenvolvi, espero que te ajude.... 😊
-          
+## 🚀 Principais áreas de atuação
+
+- Observabilidade e monitoramento de infraestrutura
+- Administração e automação de ambientes Zabbix
+- Desenvolvimento de dashboards no Grafana
+- Python para automação e integração de sistemas
+- APIs REST
+- Infraestrutura de Datacenter
+- Análise e resolução de incidentes
+- Inteligência artificial aplicada a operações
+- Telecomunicações e ambientes críticos
+
+## 🛠️ Tecnologias e ferramentas
+
+- Python
+- Zabbix
+- Grafana
+- Linux
+- Git e GitHub
+- APIs REST
+- Zabbix API
+- Zabbix Sender e Zabbix Trapper
+- Telegram Bot API
+- SQL
+
+## 📌 Projetos em destaque
+
+### Zabbix Menu Bot
+
+Bot desenvolvido em Python para integração entre Telegram e Zabbix.
+
+Principais funcionalidades:
+
+- Consulta de grupos, hosts e itens monitorados
+- Busca e envio de gráficos pelo Telegram
+- Reconhecimento de incidentes por usuário
+- Paginação de resultados
+- Integração com a API do Zabbix
+- Execução como serviço no Linux
+
+[Conheça o projeto](https://github.com/MauricioMendesPy/Zabbix_Graficos_Bot)
+
+### Descoberta DCM com Zabbix Trapper
+
+Solução em Python para descoberta e monitoramento de equipamentos DCM utilizando Zabbix Trapper, Zabbix Sender e Low-Level Discovery.
+
+[Conheça o projeto](https://github.com/MauricioMendesPy/dcm_zabbix_trapper)
+
+## 🎯 Atualmente estudando
+
+- Inteligência artificial aplicada a operações
+- Observabilidade avançada
+- Automação de infraestrutura
+- Engenharia de Plataforma e SRE
+- Análise de dados operacionais
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/mauriciomendespy
+- GitHub: [MauricioMendesPy](https://github.com/MauricioMendesPy)
